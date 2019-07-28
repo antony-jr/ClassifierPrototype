@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Classifier Prototype</string>
+    <string name="toggle_camera">Snap Image</string>
+    <string name="detect_object">Classify Image</string>
+</resources>
